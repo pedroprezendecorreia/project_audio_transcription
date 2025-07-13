@@ -1,0 +1,10 @@
+sounddevice
+soundfile
+numpy
+whisper
+PyQt6
+keyboard
+pyperclip
+configparser
+
+
