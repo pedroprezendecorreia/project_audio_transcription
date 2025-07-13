@@ -22,9 +22,6 @@ This project presents a Python application designed for local audio recording an
   - [Running the Application](#running-the-application)
 - [Usage](#usage)
 - [Known Issues & Future Improvements](#known-issues--future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## The Power of AI in Development
 
